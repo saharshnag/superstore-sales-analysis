@@ -90,6 +90,8 @@ Optional full dashboard PDF:
 
 🗃️ Project Folder Structure
 
+_The folder structure below is the expected project layout, written for readability. The GitHub interface may display folders in a different order._
+
 superstore-sales-analysis/
 ├── README.md
 ├── sql/
