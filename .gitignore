@@ -1,0 +1,36 @@
+# Ignore temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.log
+*.DS_Store
+Thumbs.db
+
+# Ignore Excel temp files
+~$*.xls
+~$*.xlsx
+
+# Ignore Power BI temp files
+~$*.pbix
+*.pbix~*
+*.pbipbi
+*.pbix-autosave.pbix
+
+# Ignore VS Code settings (optional, if using VS Code)
+.vscode/
+
+# Ignore node_modules (if accidentally used)
+node_modules/
+
+# Ignore Python cache (if used)
+__pycache__/
+*.pyc
+
+# Ignore .env or sensitive files (best practice even if not used here)
+.env
+.env.*
+
+# General editor swap files
+*.swp
+*.swo
